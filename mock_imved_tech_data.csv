@@ -1,0 +1,121 @@
+EmployeeID,FirstName,LastName,Gender,Age,Department,JobRole,EducationField,YearsOfExperience,SalaryINR,City,ClientProjectID,ProjectHoursPerWeek,ProjectStatus,PerformanceRating,SatisfactionScore,WorkLifeBalanceScore,TrainingHoursLastYear,LastPromotionDate,JoiningDate,Attrition
+E2001,Aarav,Sharma,Male,28,Technology,Data Scientist,Computer Science,5,1800000,Delhi,CL101,40,In Progress,4,4,3,120,2024-03-15,2020-06-01,No
+E2002,Priya,Singh,Female,32,Technology,Cloud Engineer,Information Technology,8,2500000,Bengaluru,CL102,45,Completed,5,5,4,80,2023-07-20,2017-11-10,No
+E2003,Rohan,Gupta,Male,35,HR,HR Manager,Human Resources,10,2200000,Delhi,NA,10,Internal,4,4,2,200,2022-09-01,2015-02-18,No
+E2004,Sneha,Patel,Female,25,Technology,UI/UX Designer,Design,3,1100000,Pune,CL101,35,In Progress,3,3,3,50,NA,2022-08-05,No
+E2005,Vikram,Kumar,Male,29,Sales,Sales Executive,Marketing,4,900000,Delhi,NA,20,Internal,4,2,1,150,2024-01-10,2021-04-12,Yes
+E2006,Anjali,Mehta,Female,24,Technology,Software Developer,Computer Science,2,950000,Bengaluru,CL103,40,On Hold,3,3,4,70,NA,2023-07-19,No
+E2007,Amit,Jain,Male,34,Technology,Data Scientist,Statistics,9,2800000,Bengaluru,CL102,40,Completed,5,5,4,90,2023-01-30,2016-09-22,No
+E2008,Kavita,Reddy,Female,30,Finance,Accountant,Commerce,6,1400000,Delhi,NA,15,Internal,4,4,3,110,2023-06-11,2019-05-03,No
+E2009,Manish,Verma,Male,27,Technology,Cloud Engineer,Electronics,4,1500000,Pune,CL104,40,In Progress,3,2,2,40,2024-04-02,2021-01-20,Yes
+E2010,Deepika,Iyer,Female,31,Technology,Software Developer,Computer Science,7,2100000,Bengaluru,CL103,40,On Hold,4,4,3,85,2022-11-15,2018-03-25,No
+E2011,Sandeep,Nair,Male,38,Sales,Sales Manager,Business Administration,12,3500000,Delhi,NA,25,Internal,5,5,2,250,2021-08-01,2013-10-09,No
+E2012,Pooja,Chopra,Female,22,Technology,Data Scientist,Data Science,1,750000,Pune,CL104,30,In Progress,2,2,4,30,NA,2024-06-03,Yes
+E2013,Rajesh,Malhotra,Male,29,Technology,UI/UX Designer,Design,6,1600000,Delhi,CL105,40,In Progress,4,5,4,60,2023-02-18,2019-11-30,No
+E2014,Sunita,Biswas,Female,25,HR,HR Associate,Human Resources,2,600000,Delhi,NA,10,Internal,3,3,3,95,NA,2023-09-01,No
+E2015,Arjun,Rao,Male,28,Technology,Software Developer,Computer Science,5,1750000,Bengaluru,CL105,40,In Progress,4,4,3,130,2024-05-22,2020-12-07,No
+E2016,Neha,Verma,Female,26,Marketing,Marketing Specialist,Marketing,3,850000,Pune,NA,20,Internal,3,3,2,75,NA,2022-10-10,No
+E2017,Sameer,Khan,Male,33,Technology,DevOps Engineer,Information Technology,9,2700000,Bengaluru,CL106,45,In Progress,5,5,4,110,2023-08-01,2016-01-15,No
+E2018,Riya,Sharma,Female,29,Technology,QA Engineer,Computer Science,6,1550000,Delhi,CL101,35,In Progress,4,3,3,60,2024-02-20,2019-07-29,No
+E2019,Ankit,Agarwal,Male,23,Technology,Software Developer,Electronics,1,800000,Pune,CL104,40,In Progress,3,2,2,45,NA,2024-07-01,Yes
+E2020,Meera,Desai,Female,36,Finance,Finance Manager,Finance,11,3200000,Delhi,NA,15,Internal,5,4,1,180,2022-04-10,2014-05-12,No
+E2021,Karan,Malik,Male,27,Sales,Sales Executive,Business Administration,3,800000,Delhi,NA,20,Internal,3,3,3,140,NA,2022-03-14,No
+E2022,Aditi,Choudhary,Female,30,Technology,Cloud Engineer,Computer Science,7,2300000,Bengaluru,CL102,45,Completed,4,4,4,90,2023-10-05,2018-09-01,No
+E2023,Vivek,Patil,Male,39,Management,Director,Business Administration,15,6000000,Delhi,NA,30,Internal,5,5,2,300,2020-01-01,2010-08-20,No
+E2024,Ishita,Shah,Female,28,Technology,Data Scientist,Statistics,4,1600000,Pune,CL104,40,In Progress,3,2,1,55,2024-06-15,2021-02-11,Yes
+E2025,Nitin,Goel,Male,31,Technology,DevOps Engineer,Information Technology,8,2600000,Bengaluru,CL106,45,In Progress,4,4,3,100,2023-11-25,2017-06-08,No
+E2026,Divya,Kumar,Female,25,Marketing,Content Creator,Journalism,2,700000,Pune,NA,25,Internal,3,4,4,65,NA,2023-05-16,No
+E2027,Rahul,Mishra,Male,35,Technology,Project Manager,Computer Science,12,3800000,Delhi,CL105,40,In Progress,5,5,3,220,2022-07-18,2013-04-01,No
+E2028,Priyanka,Joshi,Female,29,Technology,QA Engineer,Information Technology,5,1400000,Delhi,CL101,35,In Progress,3,3,2,50,NA,2020-10-26,No
+E2029,Harsh,Singh,Male,22,Technology,Software Developer,Computer Science,1,780000,Bengaluru,CL103,40,On Hold,2,2,3,40,NA,2024-08-01,No
+E2030,Sonam,Kapoor,Female,37,HR,HR Business Partner,Human Resources,13,2800000,Delhi,NA,10,Internal,5,4,2,210,2021-12-01,2012-01-10,No
+E2031,Abhishek,Yadav,Male,26,Technology,Data Scientist,Computer Science,3,1200000,Pune,CL104,38,In Progress,3,3,3,80,NA,2022-05-20,No
+E2032,Tanvi,Bhatia,Female,33,Technology,Cloud Engineer,Electronics,9,2900000,Bengaluru,CL106,45,In Progress,5,5,4,120,2023-05-15,2016-08-11,No
+E2033,Mohit,Chauhan,Male,29,Sales,Sales Executive,Marketing,5,1100000,Delhi,NA,20,Internal,4,3,2,160,2023-09-10,2020-03-02,No
+E2034,Sakshi,Aggarwal,Female,24,Technology,UI/UX Designer,Design,2,980000,Pune,CL101,35,In Progress,3,2,1,35,NA,2023-11-01,Yes
+E2035,Gaurav,Tiwari,Male,31,Technology,Software Developer,Information Technology,7,2150000,Bengaluru,CL105,40,In Progress,4,4,3,100,2022-10-20,2018-07-16,No
+E2036,Ritika,Sinha,Female,27,Finance,Accountant,Commerce,4,1100000,Delhi,NA,15,Internal,3,3,3,90,NA,2021-09-08,No
+E2037,Varun,Das,Male,36,Technology,Project Manager,Business Administration,13,4100000,Bengaluru,CL102,40,Completed,5,5,2,240,2022-01-12,2012-11-19,No
+E2038,Simran,Kaur,Female,28,HR,HR Associate,Human Resources,4,800000,Delhi,NA,10,Internal,4,4,4,105,2024-01-05,2021-06-21,No
+E2039,Alok,Nath,Male,23,Technology,QA Engineer,Computer Science,1,720000,Pune,CL104,35,In Progress,2,2,3,25,NA,2024-05-13,Yes
+E2040,Natasha,Roy,Female,34,Management,Director,Marketing,12,5500000,Delhi,NA,30,Internal,5,4,1,280,2021-06-01,2013-01-28,No
+E2041,Ravi,Shankar,Male,29,Technology,Data Scientist,Statistics,6,2000000,Bengaluru,CL106,40,In Progress,4,4,3,115,2023-12-18,2019-02-14,No
+E2042,Juhi,Chawla,Female,26,Technology,Cloud Engineer,Information Technology,3,1300000,Pune,CL104,42,In Progress,3,3,2,60,NA,2022-02-28,No
+E2043,Farhan,Akhtar,Male,32,Sales,Sales Executive,Marketing,8,1800000,Delhi,NA,20,Internal,5,5,3,190,2023-04-12,2017-10-03,No
+E2044,Anushka,Shetty,Female,25,Technology,Software Developer,Computer Science,2,1050000,Bengaluru,CL105,40,In Progress,4,4,4,70,NA,2023-03-01,No
+E2045,Siddharth,Menon,Male,30,Technology,DevOps Engineer,Computer Science,7,2400000,Bengaluru,CL106,45,In Progress,4,3,3,95,2024-03-01,2018-05-14,No
+E2046,Fatima,Sheikh,Female,27,Marketing,Marketing Specialist,Business Administration,4,1000000,Pune,NA,20,Internal,3,2,1,80,2024-07-10,2021-08-09,Yes
+E2047,Imran,Khan,Male,38,Finance,Finance Manager,Finance,14,3800000,Delhi,NA,15,Internal,5,5,2,230,2021-10-15,2011-04-25,No
+E2048,Deepa,Krishnan,Female,31,Technology,Project Manager,Information Technology,9,3100000,Bengaluru,CL103,40,On Hold,4,4,3,150,2023-03-20,2016-12-01,No
+E2049,Roshan,Seth,Male,24,Technology,QA Engineer,Electronics,2,900000,Pune,CL104,35,In Progress,3,3,4,40,NA,2023-01-30,No
+E2050,Lalita,Pawar,Female,40,Management,Senior Manager,Business Administration,18,7500000,Delhi,NA,35,Internal,5,5,2,350,2019-05-20,2007-03-12,No
+E2051,Suraj,Mehta,Male,28,Technology,Data Scientist,Mathematics,5,1850000,Delhi,CL101,40,In Progress,4,3,2,125,2024-04-01,2020-07-15,No
+E2052,Anu,Aggarwal,Female,33,Technology,Cloud Engineer,Computer Science,8,2600000,Bengaluru,CL102,45,Completed,5,4,3,85,2023-08-22,2017-12-20,No
+E2053,Ajay,Dev,Male,36,HR,HR Manager,Human Resources,11,2400000,Delhi,NA,10,Internal,4,4,2,210,2022-10-01,2014-01-28,No
+E2054,Shilpa,Rao,Female,26,Technology,UI/UX Designer,Design,4,1300000,Pune,CL101,35,In Progress,3,3,3,55,2024-08-01,2021-11-15,No
+E2055,Rohit,Shetty,Male,29,Sales,Sales Executive,Marketing,5,1000000,Delhi,NA,20,Internal,3,2,1,155,NA,2020-09-22,Yes
+E2056,Tara,Sutaria,Female,24,Technology,Software Developer,Computer Science,2,980000,Bengaluru,CL103,40,On Hold,3,4,4,75,NA,2023-06-25,No
+E2057,Vijay,Thakur,Male,34,Technology,Data Scientist,Statistics,9,2900000,Bengaluru,CL102,40,Completed,5,5,4,95,2023-02-15,2016-10-18,No
+E2058,Kriti,Sanon,Female,30,Finance,Accountant,Commerce,6,1500000,Delhi,NA,15,Internal,4,4,3,115,2023-07-14,2019-04-10,No
+E2059,Kartik,Aaryan,Male,27,Technology,Cloud Engineer,Electronics,4,1600000,Pune,CL104,40,In Progress,3,2,2,45,2024-05-11,2021-02-28,Yes
+E2060,Kiara,Advani,Female,31,Technology,Software Developer,Computer Science,7,2200000,Bengaluru,CL103,40,On Hold,4,4,3,90,2022-12-25,2018-02-05,No
+E2061,Tiger,Shroff,Male,38,Sales,Sales Manager,Business Administration,12,3600000,Delhi,NA,25,Internal,5,5,2,255,2021-09-11,2013-11-18,No
+E2062,Disha,Patani,Female,22,Technology,Data Scientist,Data Science,1,800000,Pune,CL104,30,In Progress,2,2,4,35,NA,2024-07-15,Yes
+E2063,Akshay,Khanna,Male,29,Technology,UI/UX Designer,Design,6,1700000,Delhi,CL105,40,In Progress,4,5,4,65,2023-03-28,2019-10-09,No
+E2064,Nushrat,Bharucha,Female,25,HR,HR Associate,Human Resources,2,650000,Delhi,NA,10,Internal,3,3,3,100,NA,2023-10-11,No
+E2065,Sanjay,Dutt,Male,28,Technology,Software Developer,Computer Science,5,1800000,Bengaluru,CL105,40,In Progress,4,4,3,135,2024-06-28,2020-11-16,No
+E2066,Parineeti,Chopra,Female,26,Marketing,Marketing Specialist,Marketing,3,900000,Pune,NA,20,Internal,3,3,2,80,NA,2022-11-21,No
+E2067,Suniel,Shetty,Male,33,Technology,DevOps Engineer,Information Technology,9,2800000,Bengaluru,CL106,45,In Progress,5,5,4,115,2023-09-12,2016-02-24,No
+E2068,Kareena,Kapoor,Female,29,Technology,QA Engineer,Computer Science,6,1600000,Delhi,CL101,35,In Progress,4,3,3,65,2024-03-30,2019-06-08,No
+E2069,Shahid,Kapoor,Male,23,Technology,Software Developer,Electronics,1,820000,Pune,CL104,40,In Progress,3,2,2,50,NA,2024-08-12,No
+E2070,Aishwarya,Rai,Female,36,Finance,Finance Manager,Finance,11,3300000,Delhi,NA,15,Internal,5,4,1,185,2022-05-20,2014-04-22,No
+E2071,Hrithik,Roshan,Male,27,Sales,Sales Executive,Business Administration,3,850000,Delhi,NA,20,Internal,3,3,3,145,NA,2022-04-25,No
+E2072,Katrina,Kaif,Female,30,Technology,Cloud Engineer,Computer Science,7,2400000,Bengaluru,CL102,45,Completed,4,4,4,95,2023-11-15,2018-08-10,No
+E2073,Salman,Khan,Male,39,Management,Director,Business Administration,15,6200000,Delhi,NA,30,Internal,5,5,2,305,2020-02-11,2010-09-30,No
+E2074,Alia,Bhatt,Female,28,Technology,Data Scientist,Statistics,4,1700000,Pune,CL104,40,In Progress,3,2,1,60,2024-07-25,2021-01-19,Yes
+E2075,Ranbir,Kapoor,Male,31,Technology,DevOps Engineer,Information Technology,8,2700000,Bengaluru,CL106,45,In Progress,4,4,3,105,2023-12-05,2017-07-18,No
+E2076,Shraddha,Kapoor,Female,25,Marketing,Content Creator,Journalism,2,750000,Pune,NA,25,Internal,3,4,4,70,NA,2023-04-26,No
+E2077,Ranveer,Singh,Male,35,Technology,Project Manager,Computer Science,12,3900000,Delhi,CL105,40,In Progress,5,5,3,225,2022-08-28,2013-05-11,No
+E2078,Vaani,Kapoor,Female,29,Technology,QA Engineer,Information Technology,5,1450000,Delhi,CL101,35,In Progress,3,3,2,55,NA,2020-09-05,No
+E2079,Varun,Dhawan,Male,22,Technology,Software Developer,Computer Science,1,800000,Bengaluru,CL103,40,On Hold,2,2,3,45,NA,2024-09-02,No
+E2080,Jacqueline,Fernandez,Female,37,HR,HR Business Partner,Human Resources,13,2900000,Delhi,NA,10,Internal,5,4,2,215,2021-11-11,2012-02-20,No
+E2081,Sushant,Rajput,Male,26,Technology,Data Scientist,Computer Science,3,1250000,Pune,CL104,38,In Progress,3,3,3,85,NA,2022-04-01,No
+E2082,Ananya,Panday,Female,33,Technology,Cloud Engineer,Electronics,9,3000000,Bengaluru,CL106,45,In Progress,5,5,4,125,2023-06-25,2016-07-22,No
+E2083,Ayushmann,Khurrana,Male,29,Sales,Sales Executive,Marketing,5,1150000,Delhi,NA,20,Internal,4,3,2,165,2023-10-20,2020-02-12,No
+E2084,Janhvi,Kapoor,Female,24,Technology,UI/UX Designer,Design,2,1000000,Pune,CL101,35,In Progress,3,2,1,40,NA,2023-12-11,Yes
+E2085,Vicky,Kaushal,Male,31,Technology,Software Developer,Information Technology,7,2250000,Bengaluru,CL105,40,In Progress,4,4,3,105,2022-11-30,2018-06-26,No
+E2086,Sara,Ali,Female,27,Finance,Accountant,Commerce,4,1150000,Delhi,NA,15,Internal,3,3,3,95,NA,2021-10-18,No
+E2087,Rajkummar,Rao,Male,36,Technology,Project Manager,Business Administration,13,4200000,Bengaluru,CL102,40,Completed,5,5,2,245,2022-02-22,2012-10-29,No
+E2088,Bhumi,Pednekar,Female,28,HR,HR Associate,Human Resources,4,850000,Delhi,NA,10,Internal,4,4,4,110,2024-02-15,2021-05-03,No
+E2089,Sidharth,Malhotra,Male,23,Technology,QA Engineer,Computer Science,1,750000,Pune,CL104,35,In Progress,2,2,3,30,NA,2024-04-23,Yes
+E2090,Deepika,Padukone,Female,34,Management,Director,Marketing,12,5800000,Delhi,NA,30,Internal,5,4,1,285,2021-07-11,2013-02-08,No
+E2091,Amitabh,Bachchan,Male,42,Management,Senior Manager,Finance,20,9000000,Delhi,NA,35,Internal,5,5,3,400,2018-01-15,2005-01-01,No
+E2092,Rekha,Ganesan,Female,40,Management,Senior Manager,Human Resources,18,8500000,Delhi,NA,35,Internal,5,4,2,380,2019-03-10,2007-06-15,No
+E2093,Dharmendra,Deol,Male,45,Management,VP,Sales,22,12000000,Delhi,NA,40,Internal,5,5,4,500,2017-04-01,2003-03-03,No
+E2094,Hema,Malini,Female,41,Management,VP,Marketing,19,11000000,Delhi,NA,40,Internal,5,4,3,450,2018-05-01,2006-08-01,No
+E2095,Shah,Rukh,Male,39,Management,CEO,Business Administration,17,25000000,Delhi,NA,50,Internal,5,5,1,600,NA,2008-01-01,No
+E2096,Madhuri,Dixit,Female,35,Technology,Chief Technology Officer,Computer Science,14,18000000,Bengaluru,NA,50,Internal,5,5,2,550,2020-06-01,2011-01-10,No
+E2097,Aamir,Khan,Male,38,Technology,Chief Architect,Information Technology,16,15000000,Bengaluru,NA,45,Internal,5,5,3,520,2019-09-01,2009-04-14,No
+E2098,Kajol,Devgan,Female,34,HR,Chief Human Officer,Human Resources,13,13000000,Delhi,NA,45,Internal,5,4,2,480,2021-01-01,2012-07-01,No
+E2099,Saif,Ali,Male,36,Finance,Chief Financial Officer,Finance,15,16000000,Delhi,NA,45,Internal,5,5,2,530,2020-03-01,2010-05-20,No
+E2100,Rani,Mukerji,Female,33,Management,Chief Operating Officer,Business Administration,12,14000000,Delhi,NA,50,Internal,5,5,1,500,2022-01-01,2013-09-01,No
+E2101,Anil,Kapoor,Male,40,Sales,VP Sales,Marketing,18,11500000,Delhi,NA,40,Internal,4,4,3,480,2018-09-15,2007-10-01,No
+E2102,Sridevi,Kapoor,Female,39,Marketing,VP Marketing,Marketing,17,10500000,Delhi,NA,40,Internal,5,4,3,460,2019-01-20,2008-02-05,No
+E2103,Govinda,Ahuja,Male,41,Technology,Senior Project Manager,Computer Science,19,9500000,Bengaluru,CL101,40,In Progress,4,3,1,350,2017-11-10,2006-05-12,Yes
+E2104,Karisma,Kapoor,Female,36,Technology,Senior Project Manager,Information Technology,15,8500000,Delhi,CL105,40,In Progress,4,4,2,300,2019-08-01,2010-02-15,No
+E2105,Bobby,Deol,Male,34,Technology,Principal Engineer,Electronics,13,7000000,Bengaluru,CL106,45,In Progress,5,5,3,280,2021-03-20,2012-03-22,No
+E2106,Twinkle,Khanna,Female,32,Technology,Principal Engineer,Computer Science,11,6500000,Pune,CL104,45,In Progress,4,3,1,250,2022-06-10,2014-07-01,Yes
+E2107,Fardeen,Khan,Male,31,Sales,Regional Manager,Business Administration,10,5000000,Delhi,NA,30,Internal,3,2,2,200,2023-01-15,2015-08-18,No
+E2108,Preity,Zinta,Female,33,Sales,Regional Manager,Marketing,12,5500000,Delhi,NA,30,Internal,4,4,3,220,2022-04-05,2013-06-25,No
+E2109,Uday,Chopra,Male,29,Marketing,Senior Marketing Specialist,Marketing,7,3000000,Pune,NA,25,Internal,3,3,2,180,2024-02-01,2018-10-10,No
+E2110,Amisha,Patel,Female,28,Marketing,Senior Marketing Specialist,Business Administration,6,2800000,Pune,NA,25,Internal,3,2,1,160,NA,2019-12-01,Yes
+E2111,Zayed,Khan,Male,27,Technology,Senior Software Developer,Computer Science,5,2500000,Bengaluru,CL105,40,In Progress,4,4,3,150,2023-11-15,2020-01-20,No
+E2112,Esha,Deol,Female,26,Technology,Senior Software Developer,Information Technology,4,2300000,Bengaluru,CL103,40,On Hold,3,3,2,140,2024-05-01,2021-05-05,No
+E2113,Vivek,Oberoi,Male,30,Sales,Senior Sales Executive,Marketing,8,2200000,Delhi,NA,20,Internal,4,3,2,190,2022-09-20,2017-03-15,No
+E2114,Bipasha,Basu,Female,31,Sales,Senior Sales Executive,Business Administration,9,2400000,Delhi,NA,20,Internal,5,4,3,210,2021-12-12,2016-04-11,No
+E2115,John,Abraham,Male,32,Marketing,Brand Manager,Marketing,10,4000000,Pune,NA,25,Internal,5,5,2,230,2022-07-07,2015-02-02,No
+E2116,Mallika,Sherawat,Female,30,Marketing,Brand Manager,Business Administration,8,3500000,Pune,NA,25,Internal,3,2,1,190,2023-05-10,2017-09-09,Yes
+E2117,Dino,Morea,Male,28,HR,Senior HR Associate,Human Resources,6,1800000,Delhi,NA,10,Internal,4,4,3,170,2023-08-08,2019-01-07,No
+E2118,Dia,Mirza,Female,29,HR,Senior HR Associate,Human Resources,7,2000000,Delhi,NA,10,Internal,5,5,4,180,2022-10-10,2018-03-03,No
+E2119,Ritesh,Deshmukh,Male,27,Finance,Senior Accountant,Commerce,5,1600000,Delhi,NA,15,Internal,4,4,3,150,2024-01-20,2020-04-04,No
+E2120,Genelia,DSouza,Female,26,Finance,Senior Accountant,Finance,4,1400000,Delhi,NA,15,Internal,3,3,2,140,NA,2021-07-07,No
