@@ -1,6 +1,6 @@
 EmployeeID,FirstName,LastName,Gender,Age,Department,JobRole,EducationField,YearsOfExperience,SalaryINR,City,ClientProjectID,ProjectHoursPerWeek,ProjectStatus,PerformanceRating,SatisfactionScore,WorkLifeBalanceScore,TrainingHoursLastYear,LastPromotionDate,JoiningDate,Attrition
 E2001,Aarav,Sharma,Male,28,Technology,Data Scientist,Computer Science,5,1800000,Delhi,CL101,40,In Progress,4,4,3,120,2024-03-15,2020-06-01,No
-E2002,Priya,Singh,Female,32,Technology,Cloud Engineer,Information Technology,8,2500000,Bengaluru,CL102,45,Completed,5,5,4,80,2023-07-20,2017-11-10,No
+E2002,Priya,Singh,Male,32,Technology,Cloud Engineer,Information Technology,8,2500000,Bengaluru,CL102,45,Completed,5,5,4,80,2023-07-20,2017-11-10,No
 E2003,Rohan,Gupta,Male,35,HR,HR Manager,Human Resources,10,2200000,Delhi,NA,10,Internal,4,4,2,200,2022-09-01,2015-02-18,No
 E2004,Sneha,Patel,Female,25,Technology,UI/UX Designer,Design,3,1100000,Pune,CL101,35,In Progress,3,3,3,50,NA,2022-08-05,No
 E2005,Vikram,Kumar,Male,29,Sales,Sales Executive,Marketing,4,900000,Delhi,NA,20,Internal,4,2,1,150,2024-01-10,2021-04-12,Yes
@@ -8,9 +8,9 @@ E2006,Anjali,Mehta,Female,24,Technology,Software Developer,Computer Science,2,95
 E2007,Amit,Jain,Male,34,Technology,Data Scientist,Statistics,9,2800000,Bengaluru,CL102,40,Completed,5,5,4,90,2023-01-30,2016-09-22,No
 E2008,Kavita,Reddy,Female,30,Finance,Accountant,Commerce,6,1400000,Delhi,NA,15,Internal,4,4,3,110,2023-06-11,2019-05-03,No
 E2009,Manish,Verma,Male,27,Technology,Cloud Engineer,Electronics,4,1500000,Pune,CL104,40,In Progress,3,2,2,40,2024-04-02,2021-01-20,Yes
-E2010,Deepika,Iyer,Female,31,Technology,Software Developer,Computer Science,7,2100000,Bengaluru,CL103,40,On Hold,4,4,3,85,2022-11-15,2018-03-25,No
+E2010,Deepika,Iyer,Male,31,Technology,Software Developer,Computer Science,7,2100000,Bengaluru,CL103,40,On Hold,4,4,3,85,2022-11-15,2018-03-25,No
 E2011,Sandeep,Nair,Male,38,Sales,Sales Manager,Business Administration,12,3500000,Delhi,NA,25,Internal,5,5,2,250,2021-08-01,2013-10-09,No
-E2012,Pooja,Chopra,Female,22,Technology,Data Scientist,Data Science,1,750000,Pune,CL104,30,In Progress,2,2,4,30,NA,2024-06-03,Yes
+E2012,Pooja,Chopra,Male,22,Technology,Data Scientist,Data Science,1,750000,Pune,CL104,30,In Progress,2,2,4,30,NA,2024-06-03,Yes
 E2013,Rajesh,Malhotra,Male,29,Technology,UI/UX Designer,Design,6,1600000,Delhi,CL105,40,In Progress,4,5,4,60,2023-02-18,2019-11-30,No
 E2014,Sunita,Biswas,Female,25,HR,HR Associate,Human Resources,2,600000,Delhi,NA,10,Internal,3,3,3,95,NA,2023-09-01,No
 E2015,Arjun,Rao,Male,28,Technology,Software Developer,Computer Science,5,1750000,Bengaluru,CL105,40,In Progress,4,4,3,130,2024-05-22,2020-12-07,No
